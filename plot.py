@@ -1,0 +1,10 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+def show(x, y, n):
+    sns.set(style='darkgrid')
+    ax = plt.subplot()
+    ax.set(title='transport ciepła MES', xlabel='n = ' + str(n))
+    ax.plot(x, y, color='red')
+
+    plt.show()
