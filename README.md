@@ -4,6 +4,7 @@ Project for differential equations course at the AGH ust
 # problem
 
 Problem - [pdf](doc/zadanie_obliczeniowe_2023.pdf)
+
 Solution - [pdf](doc/heating-transfer.pdf)
 
 # technologies
